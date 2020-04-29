@@ -41,24 +41,5 @@
   transform: translate(0%, -75%);
 }
 .img {
-  display: block;
-}
-
-.bg-img1 {
-  background-image: url(images/p1.jpg);
-}
-.bg-img2 {
-  background-image: url(images/p2.jpg);
-}
-.bg-img3 {
-  background-image: url(images/p3.jpg);
-}
-.bg-img4 {
-  background-image: url(images/p4.jpg);
-}
-.bg-img5 {
-  background-image: url(images/p5.jpg);
-}
-.bg-img6 {
-  background-image: url(images/p6.jpg);
+  /* display: block; */
 }
