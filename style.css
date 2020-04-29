@@ -9,10 +9,34 @@
 
 .font-nav {
   font-family: "Archivo Black", sans-serif;
-  font-size: 40px;
+  font-size: 17px;
 }
 
 .img-hero {
   width: 100vw;
   height: 50vh;
+}
+.box-hero {
+  position: relative;
+  /* text-align: center; */
+  color: white;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+.font-1 {
+  font-weight: bold;
+  background-color: black;
+  transform: translate(0%, -600%);
+}
+.font-2 {
+  font-weight: bold;
+  font-size: 72px;
+}
+.font-3 {
+  font-weight: bold;
+  font-size: 30px;
+  transform: translate(0%, -75%);
 }
